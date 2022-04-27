@@ -1,0 +1,751 @@
+[ {
+  "uid" : "9344fb3916b50333",
+  "name" : "should allow me to edit an item",
+  "time" : {
+    "start" : 1651047484782,
+    "stop" : 1651047485720,
+    "duration" : 938
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2e30b20b714a3493",
+  "name" : "should trim entered text",
+  "time" : {
+    "start" : 1651047487588,
+    "stop" : 1651047488645,
+    "duration" : 1057
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7ab86a2bcf074427",
+  "name" : "should save edits on blur",
+  "time" : {
+    "start" : 1651047489804,
+    "stop" : 1651047490494,
+    "duration" : 690
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1c2b23db630ea23f",
+  "name" : "should hide other controls when editing",
+  "time" : {
+    "start" : 1651047487224,
+    "stop" : 1651047488587,
+    "duration" : 1363
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a817c01e67ef2234",
+  "name" : "should allow me to mark items as complete",
+  "time" : {
+    "start" : 1651047486582,
+    "stop" : 1651047487372,
+    "duration" : 790
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f7f2c057da673830",
+  "name" : "should append new items to the bottom of the list",
+  "time" : {
+    "start" : 1651047482912,
+    "stop" : 1651047483639,
+    "duration" : 727
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "18781897e53740c",
+  "name" : "should allow me to display all items",
+  "time" : {
+    "start" : 1651047504530,
+    "stop" : 1651047506190,
+    "duration" : 1660
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ca4ec8b12f9d20d4",
+  "name" : "should respect the back button",
+  "time" : {
+    "start" : 1651047496358,
+    "stop" : 1651047497600,
+    "duration" : 1242
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "74a99e7aa8fc100f",
+  "name" : "should cancel edits on escape",
+  "time" : {
+    "start" : 1651047489734,
+    "stop" : 1651047490711,
+    "duration" : 977
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "638b88fc3f6c8274",
+  "name" : "should allow me to add todo items",
+  "time" : {
+    "start" : 1651047472452,
+    "stop" : 1651047477099,
+    "duration" : 4647
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "17df46af125202b2",
+  "name" : "should hide other controls when editing",
+  "time" : {
+    "start" : 1651047488989,
+    "stop" : 1651047489804,
+    "duration" : 815
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7f3e5e99830c4b0",
+  "name" : "complete all checkbox should update state when items are completed / cleared",
+  "time" : {
+    "start" : 1651047480892,
+    "stop" : 1651047482856,
+    "duration" : 1964
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6c3fee0860e72d7c",
+  "name" : "should allow me to mark items as complete",
+  "time" : {
+    "start" : 1651047482857,
+    "stop" : 1651047484356,
+    "duration" : 1499
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "422b132e70fbc925",
+  "name" : "should persist its data",
+  "time" : {
+    "start" : 1651047494362,
+    "stop" : 1651047495457,
+    "duration" : 1095
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e628da24731e60e7",
+  "name" : "should allow me to add todo items",
+  "time" : {
+    "start" : 1651047472474,
+    "stop" : 1651047475724,
+    "duration" : 3250
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3669fdbbdba7f1f6",
+  "name" : "should respect the back button",
+  "time" : {
+    "start" : 1651047501436,
+    "stop" : 1651047503376,
+    "duration" : 1940
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "78debbf5ca831f76",
+  "name" : "should remove completed items when clicked",
+  "time" : {
+    "start" : 1651047492395,
+    "stop" : 1651047493441,
+    "duration" : 1046
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c60cbd6fb9c297f7",
+  "name" : "should allow me to display all items",
+  "time" : {
+    "start" : 1651047498432,
+    "stop" : 1651047499245,
+    "duration" : 813
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "150553a4feedc601",
+  "name" : "should clear text input field when an item is added",
+  "time" : {
+    "start" : 1651047475725,
+    "stop" : 1651047476467,
+    "duration" : 742
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "65a9eacd1a1cfbfb",
+  "name" : "should allow me to display completed items",
+  "time" : {
+    "start" : 1651047503377,
+    "stop" : 1651047504529,
+    "duration" : 1152
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "88f5d04dfe018c63",
+  "name" : "should be hidden when there are no items that are completed",
+  "time" : {
+    "start" : 1651047497345,
+    "stop" : 1651047498808,
+    "duration" : 1463
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d948612a6f3fd0e7",
+  "name" : "should hide other controls when editing",
+  "time" : {
+    "start" : 1651047485721,
+    "stop" : 1651047486677,
+    "duration" : 956
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cd8d391d2abd5cc1",
+  "name" : "should allow me to edit an item",
+  "time" : {
+    "start" : 1651047485924,
+    "stop" : 1651047487223,
+    "duration" : 1299
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "eee782aa73014036",
+  "name" : "should trim entered text",
+  "time" : {
+    "start" : 1651047490495,
+    "stop" : 1651047491211,
+    "duration" : 716
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "377997939d4786a2",
+  "name" : "should highlight the currently applied filter",
+  "time" : {
+    "start" : 1651047499246,
+    "stop" : 1651047499918,
+    "duration" : 672
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "175f86887508240e",
+  "name" : "should allow me to un-mark items as complete",
+  "time" : {
+    "start" : 1651047484357,
+    "stop" : 1651047485923,
+    "duration" : 1566
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f5a7e8aecbde143c",
+  "name" : "should append new items to the bottom of the list",
+  "time" : {
+    "start" : 1651047478170,
+    "stop" : 1651047479136,
+    "duration" : 966
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1f717863fbbe6d64",
+  "name" : "should highlight the currently applied filter",
+  "time" : {
+    "start" : 1651047506191,
+    "stop" : 1651047507784,
+    "duration" : 1593
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6946c126251db91e",
+  "name" : "should allow me to clear the complete state of all items",
+  "time" : {
+    "start" : 1651047484961,
+    "stop" : 1651047485760,
+    "duration" : 799
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a7c9d489d8034fb7",
+  "name" : "should allow me to display all items",
+  "time" : {
+    "start" : 1651047498481,
+    "stop" : 1651047499466,
+    "duration" : 985
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dcc10a6ba399f056",
+  "name" : "should allow me to clear the complete state of all items",
+  "time" : {
+    "start" : 1651047480828,
+    "stop" : 1651047481784,
+    "duration" : 956
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5e15cb0c9f66e5ee",
+  "name" : "should show #main and #footer when items added",
+  "time" : {
+    "start" : 1651047477426,
+    "stop" : 1651047478315,
+    "duration" : 889
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "689f526ccf9d4460",
+  "name" : "should clear text input field when an item is added",
+  "time" : {
+    "start" : 1651047482208,
+    "stop" : 1651047482911,
+    "duration" : 703
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "89d080a84eca15a",
+  "name" : "should append new items to the bottom of the list",
+  "time" : {
+    "start" : 1651047476468,
+    "stop" : 1651047477425,
+    "duration" : 957
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8997ef57633446e8",
+  "name" : "should allow me to add todo items",
+  "time" : {
+    "start" : 1651047472448,
+    "stop" : 1651047482207,
+    "duration" : 9759
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b7c8a614215ba528",
+  "name" : "should be hidden when there are no items that are completed",
+  "time" : {
+    "start" : 1651047493442,
+    "stop" : 1651047494361,
+    "duration" : 919
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f96af1009306cbe5",
+  "name" : "should respect the back button",
+  "time" : {
+    "start" : 1651047496878,
+    "stop" : 1651047497713,
+    "duration" : 835
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5cadddb46420c619",
+  "name" : "should allow me to mark all items as completed",
+  "time" : {
+    "start" : 1651047484228,
+    "stop" : 1651047484960,
+    "duration" : 732
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8a04dbb4c34c4627",
+  "name" : "should persist its data",
+  "time" : {
+    "start" : 1651047495369,
+    "stop" : 1651047496118,
+    "duration" : 749
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4add7963d48163e4",
+  "name" : "should remove the item if an empty text string was entered",
+  "time" : {
+    "start" : 1651047491213,
+    "stop" : 1651047492402,
+    "duration" : 1189
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fc9a2f06ccf72658",
+  "name" : "should save edits on blur",
+  "time" : {
+    "start" : 1651047488589,
+    "stop" : 1651047489882,
+    "duration" : 1293
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9220be9f2e3db98c",
+  "name" : "should persist its data",
+  "time" : {
+    "start" : 1651047498809,
+    "stop" : 1651047500124,
+    "duration" : 1315
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e2573db2e6aeff3d",
+  "name" : "should remove the item if an empty text string was entered",
+  "time" : {
+    "start" : 1651047491211,
+    "stop" : 1651047491875,
+    "duration" : 664
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c7d58e80b6237ee3",
+  "name" : "should allow me to mark items as complete",
+  "time" : {
+    "start" : 1651047482843,
+    "stop" : 1651047483847,
+    "duration" : 1004
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "34583d5002f16da2",
+  "name" : "should highlight the currently applied filter",
+  "time" : {
+    "start" : 1651047499467,
+    "stop" : 1651047500426,
+    "duration" : 959
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d42acd68c27c28ef",
+  "name" : "should remove completed items when clicked",
+  "time" : {
+    "start" : 1651047495730,
+    "stop" : 1651047497343,
+    "duration" : 1613
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a0d45d7116a0e0c8",
+  "name" : "should allow me to display completed items",
+  "time" : {
+    "start" : 1651047497714,
+    "stop" : 1651047498432,
+    "duration" : 718
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "71f73684628ee93",
+  "name" : "should allow me to mark all items as completed",
+  "time" : {
+    "start" : 1651047478316,
+    "stop" : 1651047479470,
+    "duration" : 1154
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "583bbf291486ad72",
+  "name" : "should display the correct text",
+  "time" : {
+    "start" : 1651047494480,
+    "stop" : 1651047495729,
+    "duration" : 1249
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d26946a60d245444",
+  "name" : "should cancel edits on escape",
+  "time" : {
+    "start" : 1651047492403,
+    "stop" : 1651047493618,
+    "duration" : 1215
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "22f2d674f20cd65c",
+  "name" : "should display the correct text",
+  "time" : {
+    "start" : 1651047493216,
+    "stop" : 1651047493903,
+    "duration" : 687
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3ea42456e88d9656",
+  "name" : "should trim entered text",
+  "time" : {
+    "start" : 1651047489883,
+    "stop" : 1651047491212,
+    "duration" : 1329
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b40e59f8daad4613",
+  "name" : "should allow me to clear the complete state of all items",
+  "time" : {
+    "start" : 1651047479470,
+    "stop" : 1651047480891,
+    "duration" : 1421
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ce5661faa1c5d0fe",
+  "name" : "should be hidden when there are no items that are completed",
+  "time" : {
+    "start" : 1651047494684,
+    "stop" : 1651047495368,
+    "duration" : 684
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5ac28b4be2f2c208",
+  "name" : "should cancel edits on escape",
+  "time" : {
+    "start" : 1651047491875,
+    "stop" : 1651047492631,
+    "duration" : 756
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "baa048ec880e7369",
+  "name" : "should allow me to edit an item",
+  "time" : {
+    "start" : 1651047488230,
+    "stop" : 1651047488988,
+    "duration" : 758
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "321a6084fa7f460e",
+  "name" : "should remove the item if an empty text string was entered",
+  "time" : {
+    "start" : 1651047488646,
+    "stop" : 1651047489733,
+    "duration" : 1087
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e0c19d74fc1d7fad",
+  "name" : "should display the current number of todo items",
+  "time" : {
+    "start" : 1651047493618,
+    "stop" : 1651047494479,
+    "duration" : 861
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2e27743a62bc5a1f",
+  "name" : "complete all checkbox should update state when items are completed / cleared",
+  "time" : {
+    "start" : 1651047481785,
+    "stop" : 1651047482842,
+    "duration" : 1057
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1af4444c8f16c67a",
+  "name" : "should allow me to display active items",
+  "time" : {
+    "start" : 1651047500125,
+    "stop" : 1651047501435,
+    "duration" : 1310
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ed4931711ec51489",
+  "name" : "should show #main and #footer when items added",
+  "time" : {
+    "start" : 1651047479137,
+    "stop" : 1651047479908,
+    "duration" : 771
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5cedbef0e39bf39a",
+  "name" : "should display the current number of todo items",
+  "time" : {
+    "start" : 1651047490711,
+    "stop" : 1651047491503,
+    "duration" : 792
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9f3150126bddb7ca",
+  "name" : "should allow me to display active items",
+  "time" : {
+    "start" : 1651047495458,
+    "stop" : 1651047496357,
+    "duration" : 899
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c82fd92cab03b69e",
+  "name" : "should allow me to un-mark items as complete",
+  "time" : {
+    "start" : 1651047487373,
+    "stop" : 1651047488230,
+    "duration" : 857
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "be2e9c8f1d80252",
+  "name" : "should display the correct text",
+  "time" : {
+    "start" : 1651047491504,
+    "stop" : 1651047492394,
+    "duration" : 890
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "18a970c9e1a9d989",
+  "name" : "should allow me to display completed items",
+  "time" : {
+    "start" : 1651047497600,
+    "stop" : 1651047498480,
+    "duration" : 880
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "27b178936f093f94",
+  "name" : "should show #main and #footer when items added",
+  "time" : {
+    "start" : 1651047483639,
+    "stop" : 1651047484226,
+    "duration" : 587
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4788dd6fdf591d1a",
+  "name" : "complete all checkbox should update state when items are completed / cleared",
+  "time" : {
+    "start" : 1651047485761,
+    "stop" : 1651047486581,
+    "duration" : 820
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f131c32246b3ffdf",
+  "name" : "should allow me to mark all items as completed",
+  "time" : {
+    "start" : 1651047479909,
+    "stop" : 1651047480828,
+    "duration" : 919
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ef1c1c2256c042b5",
+  "name" : "should remove completed items when clicked",
+  "time" : {
+    "start" : 1651047493903,
+    "stop" : 1651047494683,
+    "duration" : 780
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "912492deef0566d3",
+  "name" : "should save edits on blur",
+  "time" : {
+    "start" : 1651047486677,
+    "stop" : 1651047487588,
+    "duration" : 911
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3f58a884806ea720",
+  "name" : "should display the current number of todo items",
+  "time" : {
+    "start" : 1651047492631,
+    "stop" : 1651047493215,
+    "duration" : 584
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "33d39ad3bba0f283",
+  "name" : "should clear text input field when an item is added",
+  "time" : {
+    "start" : 1651047477100,
+    "stop" : 1651047478169,
+    "duration" : 1069
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7d5a24c636db5579",
+  "name" : "should allow me to un-mark items as complete",
+  "time" : {
+    "start" : 1651047483848,
+    "stop" : 1651047484781,
+    "duration" : 933
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "834859ac9508f876",
+  "name" : "should allow me to display active items",
+  "time" : {
+    "start" : 1651047496118,
+    "stop" : 1651047496877,
+    "duration" : 759
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

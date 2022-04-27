@@ -1,0 +1,1427 @@
+{
+  "chromium example.spec.ts Clear completed button should be hidden when there are no items that are completed" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ce5661faa1c5d0fe",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651047494684,
+        "stop" : 1651047495368,
+        "duration" : 684
+      }
+    } ]
+  },
+  "webkit example.spec.ts New Todo should append new items to the bottom of the list" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "89d080a84eca15a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651047476468,
+        "stop" : 1651047477425,
+        "duration" : 957
+      }
+    } ]
+  },
+  "firefox example.spec.ts Mark all as completed should allow me to clear the complete state of all items" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "dcc10a6ba399f056",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651047480828,
+        "stop" : 1651047481784,
+        "duration" : 956
+      }
+    } ]
+  },
+  "webkit example.spec.ts New Todo should allow me to add todo items" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e628da24731e60e7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651047472474,
+        "stop" : 1651047475724,
+        "duration" : 3250
+      }
+    } ]
+  },
+  "chromium example.spec.ts New Todo should append new items to the bottom of the list" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f7f2c057da673830",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651047482912,
+        "stop" : 1651047483639,
+        "duration" : 727
+      }
+    } ]
+  },
+  "chromium example.spec.ts Routing should respect the back button" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f96af1009306cbe5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651047496878,
+        "stop" : 1651047497713,
+        "duration" : 835
+      }
+    } ]
+  },
+  "chromium example.spec.ts New Todo should show #main and #footer when items added" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "27b178936f093f94",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651047483639,
+        "stop" : 1651047484226,
+        "duration" : 587
+      }
+    } ]
+  },
+  "firefox example.spec.ts Routing should allow me to display all items" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a7c9d489d8034fb7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651047498481,
+        "stop" : 1651047499466,
+        "duration" : 985
+      }
+    } ]
+  },
+  "firefox example.spec.ts Routing should allow me to display completed items" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "18a970c9e1a9d989",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651047497600,
+        "stop" : 1651047498480,
+        "duration" : 880
+      }
+    } ]
+  },
+  "firefox example.spec.ts Editing should save edits on blur" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "912492deef0566d3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651047486677,
+        "stop" : 1651047487588,
+        "duration" : 911
+      }
+    } ]
+  },
+  "firefox example.spec.ts Editing should cancel edits on escape" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "74a99e7aa8fc100f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651047489734,
+        "stop" : 1651047490711,
+        "duration" : 977
+      }
+    } ]
+  },
+  "chromium example.spec.ts Routing should highlight the currently applied filter" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "377997939d4786a2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651047499246,
+        "stop" : 1651047499918,
+        "duration" : 672
+      }
+    } ]
+  },
+  "webkit example.spec.ts Counter should display the current number of todo items" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e0c19d74fc1d7fad",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651047493618,
+        "stop" : 1651047494479,
+        "duration" : 861
+      }
+    } ]
+  },
+  "chromium example.spec.ts Item should allow me to un-mark items as complete" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c82fd92cab03b69e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651047487373,
+        "stop" : 1651047488230,
+        "duration" : 857
+      }
+    } ]
+  },
+  "chromium example.spec.ts Mark all as completed should allow me to mark all items as completed" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5cadddb46420c619",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651047484228,
+        "stop" : 1651047484960,
+        "duration" : 732
+      }
+    } ]
+  },
+  "webkit example.spec.ts Mark all as completed complete all checkbox should update state when items are completed / cleared" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7f3e5e99830c4b0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651047480892,
+        "stop" : 1651047482856,
+        "duration" : 1964
+      }
+    } ]
+  },
+  "chromium example.spec.ts New Todo should clear text input field when an item is added" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "689f526ccf9d4460",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651047482208,
+        "stop" : 1651047482911,
+        "duration" : 703
+      }
+    } ]
+  },
+  "chromium example.spec.ts Editing should save edits on blur" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7ab86a2bcf074427",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651047489804,
+        "stop" : 1651047490494,
+        "duration" : 690
+      }
+    } ]
+  },
+  "firefox example.spec.ts Item should allow me to edit an item" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9344fb3916b50333",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651047484782,
+        "stop" : 1651047485720,
+        "duration" : 938
+      }
+    } ]
+  },
+  "chromium example.spec.ts Mark all as completed complete all checkbox should update state when items are completed / cleared" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4788dd6fdf591d1a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651047485761,
+        "stop" : 1651047486581,
+        "duration" : 820
+      }
+    } ]
+  },
+  "webkit example.spec.ts New Todo should clear text input field when an item is added" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "150553a4feedc601",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651047475725,
+        "stop" : 1651047476467,
+        "duration" : 742
+      }
+    } ]
+  },
+  "firefox example.spec.ts Counter should display the current number of todo items" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5cedbef0e39bf39a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651047490711,
+        "stop" : 1651047491503,
+        "duration" : 792
+      }
+    } ]
+  },
+  "firefox example.spec.ts Item should allow me to mark items as complete" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c7d58e80b6237ee3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651047482843,
+        "stop" : 1651047483847,
+        "duration" : 1004
+      }
+    } ]
+  },
+  "webkit example.spec.ts Clear completed button should remove completed items when clicked" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d42acd68c27c28ef",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651047495730,
+        "stop" : 1651047497343,
+        "duration" : 1613
+      }
+    } ]
+  },
+  "firefox example.spec.ts Routing should highlight the currently applied filter" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "34583d5002f16da2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651047499467,
+        "stop" : 1651047500426,
+        "duration" : 959
+      }
+    } ]
+  },
+  "webkit example.spec.ts Item should allow me to un-mark items as complete" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "175f86887508240e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651047484357,
+        "stop" : 1651047485923,
+        "duration" : 1566
+      }
+    } ]
+  },
+  "firefox example.spec.ts New Todo should allow me to add todo items" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "638b88fc3f6c8274",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651047472452,
+        "stop" : 1651047477099,
+        "duration" : 4647
+      }
+    } ]
+  },
+  "webkit example.spec.ts Routing should highlight the currently applied filter" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1f717863fbbe6d64",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651047506191,
+        "stop" : 1651047507784,
+        "duration" : 1593
+      }
+    } ]
+  },
+  "webkit example.spec.ts Clear completed button should display the correct text" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "583bbf291486ad72",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651047494480,
+        "stop" : 1651047495729,
+        "duration" : 1249
+      }
+    } ]
+  },
+  "firefox example.spec.ts Clear completed button should display the correct text" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "be2e9c8f1d80252",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651047491504,
+        "stop" : 1651047492394,
+        "duration" : 890
+      }
+    } ]
+  },
+  "webkit example.spec.ts Routing should respect the back button" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3669fdbbdba7f1f6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651047501436,
+        "stop" : 1651047503376,
+        "duration" : 1940
+      }
+    } ]
+  },
+  "chromium example.spec.ts Item should allow me to edit an item" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "baa048ec880e7369",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651047488230,
+        "stop" : 1651047488988,
+        "duration" : 758
+      }
+    } ]
+  },
+  "firefox example.spec.ts Item should allow me to un-mark items as complete" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7d5a24c636db5579",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651047483848,
+        "stop" : 1651047484781,
+        "duration" : 933
+      }
+    } ]
+  },
+  "firefox example.spec.ts New Todo should clear text input field when an item is added" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "33d39ad3bba0f283",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651047477100,
+        "stop" : 1651047478169,
+        "duration" : 1069
+      }
+    } ]
+  },
+  "webkit example.spec.ts Clear completed button should be hidden when there are no items that are completed" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "88f5d04dfe018c63",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651047497345,
+        "stop" : 1651047498808,
+        "duration" : 1463
+      }
+    } ]
+  },
+  "chromium example.spec.ts Routing should allow me to display all items" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c60cbd6fb9c297f7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651047498432,
+        "stop" : 1651047499245,
+        "duration" : 813
+      }
+    } ]
+  },
+  "webkit example.spec.ts New Todo should show #main and #footer when items added" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5e15cb0c9f66e5ee",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651047477426,
+        "stop" : 1651047478315,
+        "duration" : 889
+      }
+    } ]
+  },
+  "firefox example.spec.ts Mark all as completed should allow me to mark all items as completed" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f131c32246b3ffdf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651047479909,
+        "stop" : 1651047480828,
+        "duration" : 919
+      }
+    } ]
+  },
+  "chromium example.spec.ts Mark all as completed should allow me to clear the complete state of all items" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6946c126251db91e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651047484961,
+        "stop" : 1651047485760,
+        "duration" : 799
+      }
+    } ]
+  },
+  "firefox example.spec.ts New Todo should append new items to the bottom of the list" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f5a7e8aecbde143c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651047478170,
+        "stop" : 1651047479136,
+        "duration" : 966
+      }
+    } ]
+  },
+  "webkit example.spec.ts Editing should remove the item if an empty text string was entered" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4add7963d48163e4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651047491213,
+        "stop" : 1651047492402,
+        "duration" : 1189
+      }
+    } ]
+  },
+  "webkit example.spec.ts Item should allow me to edit an item" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "cd8d391d2abd5cc1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651047485924,
+        "stop" : 1651047487223,
+        "duration" : 1299
+      }
+    } ]
+  },
+  "firefox example.spec.ts Mark all as completed complete all checkbox should update state when items are completed / cleared" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2e27743a62bc5a1f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651047481785,
+        "stop" : 1651047482842,
+        "duration" : 1057
+      }
+    } ]
+  },
+  "firefox example.spec.ts Editing should hide other controls when editing" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d948612a6f3fd0e7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651047485721,
+        "stop" : 1651047486677,
+        "duration" : 956
+      }
+    } ]
+  },
+  "firefox example.spec.ts Routing should allow me to display active items" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9f3150126bddb7ca",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651047495458,
+        "stop" : 1651047496357,
+        "duration" : 899
+      }
+    } ]
+  },
+  "firefox example.spec.ts Editing should remove the item if an empty text string was entered" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "321a6084fa7f460e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651047488646,
+        "stop" : 1651047489733,
+        "duration" : 1087
+      }
+    } ]
+  },
+  "chromium example.spec.ts Clear completed button should remove completed items when clicked" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ef1c1c2256c042b5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651047493903,
+        "stop" : 1651047494683,
+        "duration" : 780
+      }
+    } ]
+  },
+  "chromium example.spec.ts Routing should allow me to display completed items" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a0d45d7116a0e0c8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651047497714,
+        "stop" : 1651047498432,
+        "duration" : 718
+      }
+    } ]
+  },
+  "webkit example.spec.ts Routing should allow me to display all items" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "18781897e53740c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651047504530,
+        "stop" : 1651047506190,
+        "duration" : 1660
+      }
+    } ]
+  },
+  "webkit example.spec.ts Routing should allow me to display active items" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1af4444c8f16c67a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651047500125,
+        "stop" : 1651047501435,
+        "duration" : 1310
+      }
+    } ]
+  },
+  "chromium example.spec.ts Editing should hide other controls when editing" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "17df46af125202b2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651047488989,
+        "stop" : 1651047489804,
+        "duration" : 815
+      }
+    } ]
+  },
+  "chromium example.spec.ts Editing should cancel edits on escape" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5ac28b4be2f2c208",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651047491875,
+        "stop" : 1651047492631,
+        "duration" : 756
+      }
+    } ]
+  },
+  "chromium example.spec.ts Routing should allow me to display active items" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "834859ac9508f876",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651047496118,
+        "stop" : 1651047496877,
+        "duration" : 759
+      }
+    } ]
+  },
+  "webkit example.spec.ts Editing should cancel edits on escape" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d26946a60d245444",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651047492403,
+        "stop" : 1651047493618,
+        "duration" : 1215
+      }
+    } ]
+  },
+  "webkit example.spec.ts Persistence should persist its data" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9220be9f2e3db98c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651047498809,
+        "stop" : 1651047500124,
+        "duration" : 1315
+      }
+    } ]
+  },
+  "webkit example.spec.ts Editing should save edits on blur" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fc9a2f06ccf72658",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651047488589,
+        "stop" : 1651047489882,
+        "duration" : 1293
+      }
+    } ]
+  },
+  "chromium example.spec.ts Editing should trim entered text" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "eee782aa73014036",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651047490495,
+        "stop" : 1651047491211,
+        "duration" : 716
+      }
+    } ]
+  },
+  "firefox example.spec.ts Editing should trim entered text" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2e30b20b714a3493",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651047487588,
+        "stop" : 1651047488645,
+        "duration" : 1057
+      }
+    } ]
+  },
+  "chromium example.spec.ts Item should allow me to mark items as complete" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a817c01e67ef2234",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651047486582,
+        "stop" : 1651047487372,
+        "duration" : 790
+      }
+    } ]
+  },
+  "chromium example.spec.ts Counter should display the current number of todo items" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3f58a884806ea720",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651047492631,
+        "stop" : 1651047493215,
+        "duration" : 584
+      }
+    } ]
+  },
+  "webkit example.spec.ts Editing should trim entered text" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3ea42456e88d9656",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651047489883,
+        "stop" : 1651047491212,
+        "duration" : 1329
+      }
+    } ]
+  },
+  "chromium example.spec.ts New Todo should allow me to add todo items" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8997ef57633446e8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651047472448,
+        "stop" : 1651047482207,
+        "duration" : 9759
+      }
+    } ]
+  },
+  "firefox example.spec.ts Clear completed button should remove completed items when clicked" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "78debbf5ca831f76",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651047492395,
+        "stop" : 1651047493441,
+        "duration" : 1046
+      }
+    } ]
+  },
+  "webkit example.spec.ts Mark all as completed should allow me to mark all items as completed" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "71f73684628ee93",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651047478316,
+        "stop" : 1651047479470,
+        "duration" : 1154
+      }
+    } ]
+  },
+  "webkit example.spec.ts Item should allow me to mark items as complete" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6c3fee0860e72d7c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651047482857,
+        "stop" : 1651047484356,
+        "duration" : 1499
+      }
+    } ]
+  },
+  "webkit example.spec.ts Editing should hide other controls when editing" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1c2b23db630ea23f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651047487224,
+        "stop" : 1651047488587,
+        "duration" : 1363
+      }
+    } ]
+  },
+  "chromium example.spec.ts Persistence should persist its data" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8a04dbb4c34c4627",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651047495369,
+        "stop" : 1651047496118,
+        "duration" : 749
+      }
+    } ]
+  },
+  "firefox example.spec.ts Routing should respect the back button" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ca4ec8b12f9d20d4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651047496358,
+        "stop" : 1651047497600,
+        "duration" : 1242
+      }
+    } ]
+  },
+  "chromium example.spec.ts Editing should remove the item if an empty text string was entered" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e2573db2e6aeff3d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651047491211,
+        "stop" : 1651047491875,
+        "duration" : 664
+      }
+    } ]
+  },
+  "webkit example.spec.ts Mark all as completed should allow me to clear the complete state of all items" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b40e59f8daad4613",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651047479470,
+        "stop" : 1651047480891,
+        "duration" : 1421
+      }
+    } ]
+  },
+  "chromium example.spec.ts Clear completed button should display the correct text" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "22f2d674f20cd65c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651047493216,
+        "stop" : 1651047493903,
+        "duration" : 687
+      }
+    } ]
+  },
+  "firefox example.spec.ts New Todo should show #main and #footer when items added" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ed4931711ec51489",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651047479137,
+        "stop" : 1651047479908,
+        "duration" : 771
+      }
+    } ]
+  },
+  "webkit example.spec.ts Routing should allow me to display completed items" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "65a9eacd1a1cfbfb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651047503377,
+        "stop" : 1651047504529,
+        "duration" : 1152
+      }
+    } ]
+  },
+  "firefox example.spec.ts Persistence should persist its data" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "422b132e70fbc925",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651047494362,
+        "stop" : 1651047495457,
+        "duration" : 1095
+      }
+    } ]
+  },
+  "firefox example.spec.ts Clear completed button should be hidden when there are no items that are completed" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b7c8a614215ba528",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651047493442,
+        "stop" : 1651047494361,
+        "duration" : 919
+      }
+    } ]
+  }
+}
